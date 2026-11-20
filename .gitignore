@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+data_extracted/
+data_processed/
+results/
+figures/
+catboost_info/
